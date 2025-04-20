@@ -9,7 +9,7 @@ Célja, hogy átláthatóvá tegye, milyen fő egységekből áll a Meteologix, 
 
 ### `data_pipeline`
 **Szerepe:**  
-Külső modelladatok letöltése, feldolgozása, szétválasztása és adatbázisba betöltése.
+Külső adatok letöltése, feldolgozása, szétválasztása és adatbázisba betöltése.
 
 **Státusz:**  
 Működő, rendkívül érzékeny rendszer, több scriptből áll. Most dokumentálás és reflexió alatt.  
