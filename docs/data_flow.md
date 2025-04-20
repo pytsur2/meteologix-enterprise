@@ -6,14 +6,14 @@ kiemelve a felépítést, az egymásra épülő scripteket, és a rendszer érz�
 
 ---
 
-## 🎯 Funkció
+## Funkció
 
 A pipeline célja, hogy két különböző típusú adatot (meteorológiai és villám) külső forrásból letöltsön,
 feldolgozzon, szűrjön, és strukturált adatbázisba töltsön – előkészítve az API és frontend kiszolgálást.
 
 ---
 
-## ⚙️ Folyamatlépések
+## Folyamatlépések
 
 ### 1. **Adatletöltés**
 **Script:** `_1_letoltes.py`
@@ -70,7 +70,7 @@ feldolgozzon, szűrjön, és strukturált adatbázisba töltsön – előkészí
 
 ---
 
-## 🧠 Tapasztalatok és tanulságok
+## Tapasztalatok és tanulságok
 
 - A pipeline jól működik, de érzékeny a forrásfájlok formátumára és elérhetőségére.
 - Több script implicit kapcsolatban áll egymással (pl. mappanév, fájltípus, állomáskód).
@@ -81,7 +81,7 @@ feldolgozzon, szűrjön, és strukturált adatbázisba töltsön – előkészí
 
 ---
 
-## 🔭 Jövőbeli irányok
+## Jövőbeli irányok
 
 - YAML-alapú pipeline deklaráció
 - Centralizált naplózás és hibakezelés
@@ -90,7 +90,7 @@ feldolgozzon, szűrjön, és strukturált adatbázisba töltsön – előkészí
 
 ---
 
-## 🗺️ Kapcsolódó modulok
+## Kapcsolódó modulok
 
 - `modules/data_pipeline/`
 - `modules/core_database/`
