@@ -9,8 +9,7 @@ Valódi cél.**
 A Meteologix egy célorientált meteorológiai adatplatform, amely biztosítók és ügyfelek számára teszi elérhetővé az időjárási események validációját.
 
 Ez a repository nem csak egy szoftverprojekt.  
-Ez egy út, amelyen keresztül újraépítek egy működő rendszert –  
-ezúttal vállalati szemlélettel, dokumentált döntésekkel, és tanulási céllal.
+Ez egy út, amelyen keresztül újraépítek egy működő rendszert – ezúttal vállalati szemlélettel, dokumentált döntésekkel, és tanulási céllal.
 
 ---
 
@@ -30,9 +29,9 @@ Ez a projekt egyben **labor, infrastruktúra, coaching és önreflexió** is.
 
 Nem egyetlen szerepkörből tekintek rá, hanem:
 
-- fejlesztőként, aki érteni akarja a miérteket,
-- üzemeltetőként, aki hosszú távon gondolkodik,
-- gondolkodóként, aki tanulni és tanítani is akar általa.
+- fejlesztőként (bár nem vagyok, soha nem is voltam, és minden bizonnya soha nem is leszek a szó "klasszikus" értelmében vett fejlesztő), aki érteni akarja a miérteket,
+- üzemeltetőként (a saját otthoni infrastruktúrámon kívül nem üzemeltettem semmit), aki hosszú távon gondolkodik,
+- gondolkodóként, aki tanulni (és esetleg másoknak utat mutatni) is szeretne általa.
 
 ---
 
@@ -46,8 +45,8 @@ Ez a rendszer értelme, célja, szerkezete, és fejlesztési filozófiája – m
 ## Állapot
 
 Ez egy folyamatban lévő, élő fejlesztés.  
-Nem kész termék, de nem is ötletelés.  
-**Egy valódi rendszer, amelyet lépésről lépésre építek újra – átláthatóan.**
+Nem kész termék, de nem is (csak) ötletelés.  
+**Egy valódi rendszer, amelyet lépésről lépésre építek újra – remélhetőleg átláthatóan.**
 
 ---
 
@@ -58,4 +57,4 @@ MIT – szabadon tanulható, másolható, de kérlek, maradj hű a forráshoz.
 ---
 
 **Köszönöm, hogy itt vagy.  
-Ha tanulsz belőle valamit, már megérte.**
+Ha Te is tanulsz belőle valamit, már egy kicsit jobban megérte...**
