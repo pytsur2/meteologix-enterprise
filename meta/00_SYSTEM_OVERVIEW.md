@@ -7,11 +7,11 @@ Ez egy **komplex, többdimenziós vállalati prototípus**, ahol:
 
 - működő szolgáltatások születnek,
 - valós üzleti célokat szolgáló modulok épülnek,
-- és közben dokumentáltan modellezem az **infrastruktúra, üzemeltetés, fejlesztés, biztonság, tesztelés és döntéshozatal** teljes ívét.
+- és közben dokumentáltan modellezem az általam alkalmazott **infrastruktúra, üzemeltetés, fejlesztés, biztonság, tesztelés és döntéshozatal** teljes ívét.
 
-Ez nem csak egy rendszer, hanem egy **labor**, ahol:
-- önállóan, de vállalati szemlélettel építem újra azt, amit általában külön DevOps, backend, frontend, SOC és analyst csapatok kezelnek.
-- nem egyetlen szerepkörben működöm, hanem **interdiszciplináris gondolkodásban**.
+Ez nem (csak) egy rendszer, hanem elsősorban egy **labor**, ahol:
+- önállóan, de vállalati szemlélettel építem újra azt, amit általában külön DevOps, backend, frontend, SOC és analyst csapatok kezelnek,
+- nem egyetlen szerepkörben próbálom mindezt végrehajtani, hanem **interdiszciplináris gondolkodásban**.
 
 ---
 
@@ -22,15 +22,15 @@ Lehetővé tenni időjárási adatok lekérdezését konkrét biztosítási cél
 
 ### Fő felhasználási területek:
 1. **Biztosítótársaságok backoffice munkatársai**  
-   - Validálják, hogy egy adott időben és helyen történt-e biztosítási esemény (pl. jégeső, vihar).
+   - Validálják, hogy egy adott időben és helyen (Magyarország területén) történt-e biztosítási esemény (pl. zivatar, szélvihar, villámcsapás).
 2. **Ügyfelek**  
    - Előzetesen ellenőrizhetik, hogy kárigényük valószínűsíthetően elfogadható-e.
 
 **Technológiai szempontból:**  
 Egy stabil, jól dokumentált, moduláris architektúra, amely támogatja:
-- időjárási adatpipeline-ek működtetését,
+- időjárási adatpipeline-ok működtetését,
 - API-k kiszolgálását,
-- user managementet,
+- user managementet (következő ambíciószint),
 - biztonságos üzemeltetést és skálázhatóságot.
 
 ---
@@ -67,23 +67,23 @@ Nem vagyok...
 - …**developer**
 - …**enterprise admin**
 - …**SOC analyst**
-- …**code camp oktató**
+- …**code camp / promt engineer próféta**
+- …
 
 **Sőt. Egyik SEM vagyok.**
 
-Nem egy szerepkörből tekintek a rendszerre –  
-hanem **együtt látom az egészet**: az infrastruktúrát, a kódot, a döntést, a tanulást, az átláthatóságot.
+Nem egy szerepkörből tekintek a rendszerre – hanem **együtt látom az egészet**: az infrastruktúrát, a kódot, a döntést, a tanulást, az átláthatóságot.
 
 Ez nem karrierút.  
 
-Ez **belső konstrukció**: egy rendszer- és gondolkodásmód, amit magamnak építek – és mások számára is láthatóvá teszek.
+Ez **belső építkezés**: egy rendszer- és gondolkodásmód, amit magamnak építek – és mások számára is láthatóvá teszek.
 
 Hanem olyan alkotó, aki **egyetlen gondolati egységként kezeli**:
 - a szolgáltatást,
 - az architektúrát,
 - a döntéshozatalt,
 - a dokumentációt,
-- és a tanulási folyamatot.
+- de főleg a tanulási folyamatot.
 
 ---
 
@@ -96,8 +96,8 @@ Hanem olyan alkotó, aki **egyetlen gondolati egységként kezeli**:
 ## Másodlagos célok
 
 - Részletes, reflektív dokumentáció: *hogyan épül fel egy termék a nulláról?*
-- Fejlesztési tanulmány: tananyag, coaching eszköz.
-- Személyes portfólió: nem csak kód, hanem gondolkodás bemutatása.
+- Fejlesztési tanulmány: coaching eszköz (elsősorban önmagamnak).
+- Személyes portfólió: nem csak kód, hanem a kapcsolódó gondolataim bemutatása.
 
 ---
 
@@ -116,7 +116,7 @@ Hanem olyan alkotó, aki **egyetlen gondolati egységként kezeli**:
 ## Hogyan haladok?
 
 A fejlesztés **moduláris és iteratív**, de mindig egy központi cél mentén zajlik:
-- nem adhoc építkezem,
+- nem ad-hoc építkezem,
 - nem funkciót toldok, hanem keretrendszert bővítek.
 
 ---
@@ -124,6 +124,5 @@ A fejlesztés **moduláris és iteratív**, de mindig egy központi cél mentén
 ## Záró gondolat
 
 **Ez nem csak egy rendszer.  
-Ez annak a tudásnak az összegzése, hogyan építünk fel valamit az alapoktól –  
-úgy, hogy az ne csak működjön, hanem tanítható és újraépíthető is legyen.**
+Ez annak a tudásnak az összegzése, hogyan építettem fel valamit az alapoktól úgy, hogy az ne csak működjön, hanem újraépíthető is legyen.**
 
