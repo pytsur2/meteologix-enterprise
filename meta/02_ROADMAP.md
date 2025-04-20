@@ -1,10 +1,8 @@
 # Meteologix – Fejlesztési ütemterv (ROADMAP)
 
-Ez a dokumentum a Meteologix projekt fejlesztési fázisait rögzíti –  
-nem klasszikus tasklistaként, hanem gondolkodási és építkezési ívként.
+Ez a dokumentum a Meteologix projekt fejlesztési fázisait rögzíti – nem klasszikus tasklist-ként, hanem gondolkodási és építkezési ívként.
 
-A roadmap célja nem az, hogy „készen legyünk”, hanem hogy **átlássuk az utat**,  
-és minden szakaszban reflektált döntéseket hozzunk.
+A roadmap célja nem az, hogy „kész legyen”, hanem hogy **átlássam az utat**, és minden szakaszban reflektált döntéseket hozzak.
 
 ---
 
@@ -38,8 +36,7 @@ A már létező, működő rendszer elemeinek dokumentálása, hogy érthető, a
 ## 3. Stabilizációs fázis – Keretrendszer újraépítése
 
 **Cél:**  
-Létrehozni azt a minimális, de vállalati szinten működő alapot,  
-amelyre a későbbi funkciók épülhetnek.
+Létrehozni azt a minimális, de vállalati szinten működő alapot, amelyre a későbbi funkciók épülhetnek.
 
 **Elemei:**
 - Új adatbázis-séma és inicializáló modul
@@ -78,7 +75,7 @@ Olyan üzemeltetési réteg hozzáadása, amely biztonságos, fenntartható és 
 ## 6. Dokumentációs kiteljesítés – Termékesítésre kész forma
 
 **Cél:**  
-A projekt olyan állapotba hozása, hogy újra deployolható, tanítható, vagy akár eladható legyen.
+A projekt olyan állapotba hozása, hogy újra deployolható, vagy akár eladható legyen.
 
 **Output:**
 - Teljes `docs/` mappa
@@ -90,10 +87,9 @@ A projekt olyan állapotba hozása, hogy újra deployolható, tanítható, vagy 
 ## 7. Reflektív lezárás vagy továbblépés
 
 **Cél:**  
-Összegyűjteni, mit tanultam, mit hagytam ki, mit csinálnék másképp –  
-és eldönteni, hogy:
+Összegyűjteni, mit tanultam, mit hagytam ki, mit csinálnék másképp – és eldönteni, hogy:
 
-- publikálom-e tananyagként,
+- publikálom-e,
 - integrálom-e más projektekbe,
 - továbbfejlesztem-e SaaS irányba,
 - vagy újrakezdem – immár még egy szinttel feljebb.
@@ -106,6 +102,5 @@ Ez a roadmap **nem végleges**.
 A projekt *organikus struktúra*, és bármikor reagálhat belső vagy külső változásokra.
 
 A cél:  
-**ne csak legyen egy termékem –  
-hanem tudjam, hogyan építettem meg.**
+**ne csak legyen egy termékem – hanem tudjam, hogyan építettem meg.**
 
