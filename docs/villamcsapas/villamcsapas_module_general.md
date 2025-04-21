@@ -5,7 +5,7 @@
 Ez a modul felelős a Meteologix rendszerben a villámadatok nyilvános megjelenítéséért.  
 Külön frontend, lekérdezési logika és statikus JSON formátumú adatközlés tartozik hozzá.
 
-A cél, hogy az aktuális és múltbeli villámcsapás-információk elérhetők legyenek a nyilvánosság számára.
+A cél, hogy a múltbeli villámcsapás-információk elérhetők legyenek a nyilvánosság számára.
 
 ---
 
